@@ -18,6 +18,11 @@ sudo python3 -m venv kismet
 source kismet/bin/activate
 ```
 
+#### You may need to change permissions of the pulled folder:
+```
+sudo chown -R $(whoami) /home/user/kismet
+```
+
 #### Install the items from inside requirements.txt
 ```
 pip install -r requirements.txt
