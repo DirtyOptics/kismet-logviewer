@@ -5,6 +5,7 @@ git clone https://github.com/DirtyOptics/kismet-logviewer.git
 
 ```
 cd kismet-logviewer/logviewer/
+```
 
 ```
 python3 -m venv kismet
@@ -12,7 +13,6 @@ python3 -m venv kismet
 
 ```
 source kismet/bin/activate
-
 ```
 
 ```
