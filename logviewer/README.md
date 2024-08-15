@@ -10,7 +10,7 @@ cd kismet-logviewer/logviewer/
 
 #### Create python virtual environment
 ```
-python3 -m venv kismet
+sudo python3 -m venv kismet
 ```
 
 #### Activate 'kismet' virtual environment
