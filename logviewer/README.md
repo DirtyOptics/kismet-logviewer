@@ -1,24 +1,24 @@
-### Clone Repo
+#### Clone Repo
 ```
 git clone https://github.com/DirtyOptics/kismet-logviewer.git
 ```
 
-### Check and make sure it cloned, Copy yout .kismet file to log folder.
+#### Check and make sure it cloned, Copy yout .kismet file to log folder.
 ```
 cd kismet-logviewer/logviewer/
 ```
 
-### Create python virtual environment
+#### Create python virtual environment
 ```
 python3 -m venv kismet
 ```
 
-### Activate 'kismet' virtual environment
+#### Activate 'kismet' virtual environment
 ```
 source kismet/bin/activate
 ```
 
-### Install the items from inside requirements.txt
+#### Install the items from inside requirements.txt
 ```
 pip install -r requirements.txt
 ```
